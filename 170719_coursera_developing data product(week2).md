@@ -49,5 +49,4 @@ mark3
 
 ![Result of leaflet](figure/Result of leaflet.jpg) 
 
-
 I mark on the map where I have visited.
