@@ -20,6 +20,7 @@ library(leaflet)
 
 Install "leaflet" package, and load it
 
+
 ## Mark on the map
 ```{r using leaflet function}
 # Search the longitude and latitude in Google
