@@ -17,4 +17,4 @@ The rubric contains the following two questions:
 
 ## Example Submissions
 
-Here(https://seankross.neocities.org/week2.html) 's an extremely minimal passing example, but we hope your submission is much cooler!
+Here(https://seankross.neocities.org/week2.html)'s an extremely minimal passing example, but we hope your submission is much cooler!
