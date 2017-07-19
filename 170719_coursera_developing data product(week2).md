@@ -47,6 +47,6 @@ mark3<-addMarkers(mark3,lng=-119.6982,lat=34.4208,popup="Santa Barbara")
 mark3
 ```
 
-![Result of leaflet](Result of leaflet.jpg) 
+![Result of leaflet](figure/Result of leaflet.jpg) 
 
 I mark on the map where I have visited.
