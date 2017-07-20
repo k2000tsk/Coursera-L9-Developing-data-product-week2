@@ -1,0 +1,27 @@
+---
+title: "L9. Coursera_developing data product(week3)"
+author: Taesoon Kim
+Date: Jul-20-2017
+output: html_document
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Set the route and load library
+
+```{r set}
+setwd("D:/1-1. R studio/Lecture9. Developing data product/week3")
+
+# install.packages("plotly")
+library(plotly)
+
+# Today date
+format(Sys.Date(),"%m-%d-%Y")
+```
+
+Load the library and check today's date.
+
+## 
